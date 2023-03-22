@@ -1,7 +1,6 @@
 import { StyledLoginPage } from './style';
 import LoginForm from '../../components/Form/LoginForm';
 import IllustrationBox from '../../components/IllustrationBox';
-
 import { StyledButtonLink } from '../../styles/button';
 import { StyledContainer, StyledGridBox } from '../../styles/grid';
 import { StyledParagraph, StyledTitle } from '../../styles/typography';

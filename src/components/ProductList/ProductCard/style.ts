@@ -1,12 +1,17 @@
 import styled from 'styled-components';
 
 export const StyledProductCard = styled.li`
-  border: 2px solid ${({ theme }) => theme.colors.gray100};
-  border-radius: 5px;
-  transition: 0.3s;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 40px 50px;
 
-  :has(button:hover) {
-    border-color: ${({ theme }) => theme.colors.primary};
+  > div {
+    border: 2px solid ${({ theme }) => theme.colors.gray100};
+    border-radius: 5px;
+    transition: 0.3s;
+    :has(button:hover) {
+      border-color: ${({ theme }) => theme.colors.primary};
+    }
   }
 
   .imageBox {

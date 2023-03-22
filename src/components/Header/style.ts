@@ -32,6 +32,17 @@ export const StyledHeader = styled.header`
             color: ${({ theme }) => theme.colors.gray300};
           }
         }
+
+        .contador {
+          background: ${({ theme }) => theme.colors.primary};
+          color: ${({ theme }) => theme.colors.white};
+          padding: 1px 6px;
+          border-radius: 100%;
+
+          position: relative;
+          left: -25px;
+          top: -10px;
+        }
       }
     }
 

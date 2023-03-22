@@ -1,5 +1,5 @@
 import { StyledIllustrationBox } from './style';
-import LogoKenzieBurguer from '../../assets/LogoKenzieBurguer.svg';
+import LogoKenzieBurguer from '../../assets/BurguerDev.svg';
 import BallsIllustration from '../../assets/BallsIllustrations.svg';
 import Icon from '../../assets/Icon.svg';
 import { StyledParagraph } from '../../styles/typography';
