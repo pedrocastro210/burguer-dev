@@ -17,9 +17,7 @@ Com a aplicação Burguer Dev, os clientes podem navegar pelo menu de hamburguer
 A interface gráfica é responsiva e moderna, facilitando a navegação e o uso da aplicação. O uso de validação de dados nos formulários garante que o usuário insira informações corretas e completas, além de tornar a interação mais agradável.
 
 ## Como usar
-Para utilizar o Burguer Dev, é necessário clonar o repositório e instalar as dependências utilizando o npm ou yarn. Em seguida, é necessário configurar as variáveis de ambiente que armazenam a URL da API externa.
-
-Para executar o projeto, basta utilizar o comando npm start ou yarn start na raiz do projeto. Isso irá iniciar a aplicação em um servidor local e ela poderá ser acessada pelo navegador em http://localhost:3000.
+Para utilizar o Burguer Dev, é necessário criar um conta. Em seguida, fazer o login.
 
 ## Contribuição
 Contribuições são bem-vindas e encorajadas! Para contribuir com o projeto, basta criar uma branch a partir da branch main, implementar as modificações desejadas e criar um pull request para que as alterações possam ser revisadas e incorporadas à versão principal do projeto.
